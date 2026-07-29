@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Logo Kattenpension Andijk">
+  <rect width="120" height="120" rx="30" fill="#e07a5f"/>
+  <path d="M36 56 L38 26 L60 45 Z" fill="#fff8f0"/>
+  <path d="M84 56 L82 26 L60 45 Z" fill="#fff8f0"/>
+  <path d="M41 51 L42.5 35 L53.5 44 Z" fill="#f0a186"/>
+  <path d="M79 51 L77.5 35 L66.5 44 Z" fill="#f0a186"/>
+  <circle cx="60" cy="71" r="30" fill="#fff8f0"/>
+  <circle cx="43" cy="78" r="6.5" fill="#ef9d84" opacity=".55"/>
+  <circle cx="77" cy="78" r="6.5" fill="#ef9d84" opacity=".55"/>
+  <circle cx="49" cy="67" r="4.6" fill="#3d2b24"/>
+  <circle cx="71" cy="67" r="4.6" fill="#3d2b24"/>
+  <circle cx="50.6" cy="65.2" r="1.6" fill="#fff8f0"/>
+  <circle cx="72.6" cy="65.2" r="1.6" fill="#fff8f0"/>
+  <path d="M60 80 L55.4 75.5 h9.2 Z" fill="#e07a5f"/>
+  <path d="M60 80 v3 M60 83 q-4.4 3.8 -8 .4 M60 83 q4.4 3.8 8 .4" fill="none" stroke="#3d2b24" stroke-width="2.6" stroke-linecap="round"/>
+</svg>
